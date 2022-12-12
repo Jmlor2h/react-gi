@@ -4,7 +4,7 @@
 body {
   background: rgb(44, 58, 74);
 }
-.information {
+.data {
   display: flex;
   position: relative;
   border: 1px solid black;

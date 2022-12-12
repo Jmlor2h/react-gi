@@ -8,7 +8,7 @@ class Basicinfo extends React.Component {
       }
     render() {
         return (
-            <div className="information">
+            <div className="data">
                 <ul>
                     <li>{this.props.person.name}</li>
                     <li>{this.props.person.number}</li>
